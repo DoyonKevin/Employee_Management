@@ -1,0 +1,2 @@
+CREATE DATABASE Assignment;
+GO
