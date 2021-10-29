@@ -1,6 +1,6 @@
 # Python/SQL Exercise
 
-This project is an exercise for writing bot Python and SQL scripts
+This project is an exercise for writing both Python and SQL scripts
 
 It was written and tested using Python 3.8.8, and on a Windows machine
 
