@@ -44,7 +44,7 @@ def main():
     departkeys = list(departments[0].keys())
     addresskeys = list(address[0].keys())
     
-    #Creates, then alters the table keys
+    #Creates the tables
     PythonSQL.Createtables(cnxn,employkey=employkeys,departkeys=departkeys,addresskeys=addresskeys)
     #Fills tables with data from CSV
     PythonSQL.FillTables(cnxn,employees=employees,departments=departments,addresses=address)
